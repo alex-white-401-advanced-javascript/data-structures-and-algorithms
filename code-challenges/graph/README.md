@@ -1,6 +1,6 @@
 # Graph
 * [Repo](https://github.com/alex-white-401-advanced-javascript/data-structures-and-algorithms/tree/insertion-sort/code-challenges/graph)
-* [PR](https://github.com/alex-white-401-advanced-javascript/data-structures-and-algorithms/pull/15)
+* [PR](https://github.com/alex-white-401-advanced-javascript/data-structures-and-algorithms/pull/18)
 
 ## Challenge
 ### Implement your own Graph. The graph should be represented as an adjacency list, and should include the following methods:
