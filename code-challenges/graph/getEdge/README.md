@@ -1,5 +1,5 @@
 # Graph
-* [Repo](https://github.com/alex-white-401-advanced-javascript/data-structures-and-algorithms/tree/insertion-sort/code-challenges/graph/getEdge)
+* [Repo](https://github.com/alex-white-401-advanced-javascript/data-structures-and-algorithms/tree/master/code-challenges/graph/getEdge)
 * [PR](https://github.com/alex-white-401-advanced-javascript/data-structures-and-algorithms/pull/22)
 
 
